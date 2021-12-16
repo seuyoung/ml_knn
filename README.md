@@ -10,4 +10,4 @@
     * k = number of nearest neighbors used when training KNN model
     * Used 10 - fold cross validation
 
-* The project which this code is part of is available [here](https://github.gatech.edu/pages/jli952/Machine-Learning-Project/).
+* Presentation video of this project is available [here](https://www.youtube.com/watch?v=W3_RBPOOgBk&feature=youtu.be&ab_channel=JackHill).
